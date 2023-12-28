@@ -14,17 +14,17 @@ Hi, I'm Salvador Guerra!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-SalvadorGuerra777@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📚 I am getting a computer engineering degree at Universidad Centroamericana Jose Simeon Cañas
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: C++, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love pop, rock, rap and electronic music
 ```
 <hr>
 
