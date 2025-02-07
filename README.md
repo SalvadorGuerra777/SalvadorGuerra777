@@ -49,10 +49,10 @@ Aquí tienes una lista de las tecnologías y herramientas que me encantan y con 
 ---
 
 ## 🌐 Encuéntrame en
-- 🌎 [Mi Portafolio](https://tuperfil.com)  
-- 🐦 [Twitter](https://twitter.com/salvadorguerra)  
-- 💼 [LinkedIn](https://linkedin.com/in/salvadorguerra)  
-- 📂 [GitHub](https://github.com/salvadorguerra)  
+- 🌎 [Mi Portafolio]()  
+- 🅾 [Instagram](https://www.instagram.com/chambita_gg/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/salvador-guerra-847806283/)  
+- 📂 [GitHub](https://github.com/SalvadorGuerra777)  
 
 ---
 
