@@ -42,9 +42,9 @@ Aquí tienes una lista de las tecnologías y herramientas que me encantan y con 
 ---
 
 ## 📊 Mis Estadísticas
-![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvadorguerra&show_icons=true&theme=radical)
+![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalvadorGuerra777&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadorguerra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvadorGuerra777&layout=compact&theme=radical)
 
 ---
 
