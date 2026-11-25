@@ -1,32 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" role="img" aria-label="Animated terminal running pytest --suite=salvador: banking QA, API automation, UI automation and CI/CD tests pass; English C1 in progress">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330" role="img" aria-label="Animated terminal running pytest career/: banking QA, UI automation, API automation, data quality, LLM evals and CI/CD tests pass">
   <style>
     .t{font:15px 'Consolas','Courier New',monospace;fill:#c9d1d9}
-    .p{fill:#7ee787}.g{fill:#3fb950}.y{fill:#d29922}.m{fill:#8b949e}.b{fill:#58a6ff}
+    .p{fill:#7ee787}.g{fill:#3fb950}.m{fill:#8b949e}.b{fill:#58a6ff}
     .l{opacity:0;animation:show 12s infinite}
-    .l1{animation-name:a1}.l2{animation-name:a2}.l3{animation-name:a3}.l4{animation-name:a4}
-    .l5{animation-name:a5}.l6{animation-name:a6}.l7{animation-name:a7}.l8{animation-name:a8}
+    .l1{animation-name:a1}.l2{animation-name:a2}.l3{animation-name:a3}.l4{animation-name:a4}.l5{animation-name:a5}
+    .l6{animation-name:a6}.l7{animation-name:a7}.l8{animation-name:a8}.l9{animation-name:a9}
     @keyframes a1{0%,2%{opacity:0}4%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a2{0%,12%{opacity:0}14%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a3{0%,20%{opacity:0}22%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a4{0%,28%{opacity:0}30%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a5{0%,36%{opacity:0}38%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a6{0%,44%{opacity:0}46%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a7{0%,52%{opacity:0}54%,92%{opacity:1}96%,100%{opacity:0}}
-    @keyframes a8{0%,62%{opacity:0}64%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a2{0%,10%{opacity:0}12%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a3{0%,17%{opacity:0}19%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a4{0%,24%{opacity:0}26%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a5{0%,31%{opacity:0}33%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a6{0%,38%{opacity:0}40%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a7{0%,45%{opacity:0}47%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a8{0%,52%{opacity:0}54%,92%{opacity:1}96%,100%{opacity:0}}
+    @keyframes a9{0%,60%{opacity:0}62%,92%{opacity:1}96%,100%{opacity:0}}
     .c{animation:blink 1s steps(1) infinite}
     @keyframes blink{50%{opacity:0}}
   </style>
-  <rect width="820" height="300" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="820" height="330" rx="10" fill="#0d1117" stroke="#30363d"/>
   <rect width="820" height="34" rx="10" fill="#161b22"/>
   <rect y="24" width="820" height="10" fill="#161b22"/>
   <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="62" cy="17" r="6" fill="#27c93f"/>
-  <text x="410" y="22" text-anchor="middle" class="t m" style="font-size:13px">salvador@qa: ~/career</text>
-  <text x="24" y="66" class="t l l1"><tspan class="p">$</tspan> pytest --suite=salvador -v</text>
-  <text x="24" y="94" class="t l l2 m">collected 5 items</text>
-  <text x="24" y="122" class="t l l3">test_banking_systems_qa ................ <tspan class="g">PASSED</tspan></text>
-  <text x="24" y="150" class="t l l4">test_api_automation (postman, restassured) <tspan class="g">PASSED</tspan></text>
-  <text x="24" y="178" class="t l l5">test_ui_automation (playwright, selenium) <tspan class="g">PASSED</tspan></text>
-  <text x="24" y="206" class="t l l6">test_ci_cd_pipelines (jenkins, docker) .. <tspan class="g">PASSED</tspan></text>
-  <text x="24" y="234" class="t l l7">test_english_c1 ........................ <tspan class="y">IN PROGRESS</tspan></text>
-  <text x="24" y="270" class="t l l8"><tspan class="b">=====</tspan> <tspan class="g">4 passed</tspan>, <tspan class="y">1 in progress</tspan> <tspan class="b">=====</tspan> <tspan class="p">$</tspan> <tspan class="c">_</tspan></text>
+  <text x="410" y="22" text-anchor="middle" class="t m" style="font-size:13px">salvador@qa: ~</text>
+  <text x="24" y="66" class="t l l1"><tspan class="p">$</tspan> pytest career/ -v</text>
+  <text x="24" y="94" class="t l l2 m">collected 6 items</text>
+  <text x="24" y="122" class="t l l3">test_banking_systems (manual + automated) ...... <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="150" class="t l l4">test_ui_automation (playwright, selenium) ...... <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="178" class="t l l5">test_api_automation (postman, newman) .......... <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="206" class="t l l6">test_data_quality (sql, python) ................ <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="234" class="t l l7">test_llm_evals (golden datasets, graders) ...... <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="262" class="t l l8">test_ci_cd (github actions, jenkins) ........... <tspan class="g">PASSED</tspan></text>
+  <text x="24" y="300" class="t l l9"><tspan class="b">=====</tspan> <tspan class="g">6 passed</tspan> <tspan class="b">=====</tspan> <tspan class="p">$</tspan> <tspan class="c">_</tspan></text>
 </svg>
